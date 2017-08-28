@@ -1,0 +1,5 @@
+Host c3ddb01.mit.edu
+User USERNAME
+ForwardX11 yes
+ForwardX11Trusted yes
+IdentityFile ~/CLUSTERNAME-cluster/linux/CLUSTERNAME-key
